@@ -1,3 +1,4 @@
+
 var pri = [
     [new Date('1/5/2022') , new Date('1/15/2022')],   // OCAK 5 - OCAK 15
     [new Date('2/25/2022') , new Date('2/27/2022')], // ŞUBAT 25 - ŞUBAT 27
